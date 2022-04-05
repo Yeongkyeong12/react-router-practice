@@ -1,2 +1,2 @@
-# react-router-practice
-🔍practiced React Router V6
+# React Router V6 practice
+🔍practiced React Router V6 with a tutorial
